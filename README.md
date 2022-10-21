@@ -1,19 +1,20 @@
 # GenerateurCalendrier
 
-Voici un petit programme qui génére un calendrier sous forme console / html selon une année donner.
+Voici un petit programme qui génère un calendrier sous forme console / html selon une année donner.
 
 Fait entierement en java
 Avec l'utilisation de GregorianCalendar pour savoir le jour du début de l'année et le nombre de jours dans l'année.
 
 ## Comment utilisé le code
 
-Rendez vous dans le dossier du code apres l'avoir cloné / téléchargé 
+Rendez-vous dans le dossier du code après l'avoir cloné / téléchargé 
 
-Maintenant il faut compilé le code 
+Maintenant, il faut compiler le code. 
+
 ```
 javac *.java
 ```  
-Maintenant il ne reste plus que a éxécuté le code
+Maintenant, il ne reste plus qu'à exécuter le code.
 ```
 java Calendrier <OptionAffichage> <Annee>
 ```
@@ -24,4 +25,4 @@ Annee           : l'année du calendrier
 ## Html
  
 Le html devrait se trouver dans le /page du fichier.
-(Pas besoins de les supprimé pour recrée une autre année le programme passe par dessu)
+Pas besoins de les supprimer pour recréer une autre en html le programme réécrit par-dessus les fichiers présents.
