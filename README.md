@@ -13,3 +13,14 @@ Maintenant il faut compilé le code
 ```
 javac *.java
 ```  
+Maintenant il ne reste plus que a éxécuté le code
+```
+java Calendrier <OptionAffichage> <annee>
+```
+<OptionAffichage> : le mode d'affichage (HTML/CONSOLE)
+<annee>           : l'année du calendrier
+  
+## Html
+ 
+Le html devrait se trouver dans le /page du fichier.
+(Pas besoins de les supprimé pour recrée une autre année le programme passe par dessu)
