@@ -15,11 +15,11 @@ javac *.java
 ```  
 Maintenant il ne reste plus que a éxécuté le code
 ```
-java Calendrier <OptionAffichage> <annee>
+java Calendrier <OptionAffichage> <Annee>
 ```
 OptionAffichage : le mode d'affichage (HTML/CONSOLE)
 
-annee           : l'année du calendrier
+Annee           : l'année du calendrier
   
 ## Html
  
