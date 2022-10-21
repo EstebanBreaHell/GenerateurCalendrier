@@ -17,7 +17,7 @@ Maintenant il ne reste plus que a éxécuté le code
 ```
 java Calendrier <OptionAffichage> <annee>
 ```
-OptionAffichage : le mode d'affichage (HTML/CONSOLE)
+OptionAffichage : le mode d'affichage (HTML/CONSOLE) \n
 annee           : l'année du calendrier
   
 ## Html
