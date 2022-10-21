@@ -2,12 +2,12 @@
 
 Voici un petit programme qui génère un calendrier sous forme console / html selon une année donner.
 
-Fait entierement en java
+Fait entierement en java.
 Avec l'utilisation de GregorianCalendar pour savoir le jour du début de l'année et le nombre de jours dans l'année.
 
-## Comment utilisé le code
+## Comment utiliser le code.
 
-Rendez-vous dans le dossier du code après l'avoir cloné / téléchargé 
+Rendez-vous dans le dossier du code après l'avoir cloné / téléchargé .
 
 Maintenant, il faut compiler le code. 
 
